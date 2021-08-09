@@ -1,0 +1,12 @@
+{
+  "router": [
+    {
+      "path": "/",
+      "component": "HomePage"
+    },
+    {
+      "path": "/auth",
+      "component": "AuthPage"
+    }
+  ]
+}
